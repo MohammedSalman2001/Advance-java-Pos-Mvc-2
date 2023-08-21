@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/davstack/pos/lib/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/davstack/pos/lib/jbcrypt-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/davstack/pos/lib/java-mail-1.4.4.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/com/davstack/pos/lib/jbcrypt-0.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
